@@ -7,3 +7,9 @@ these scripts are used to concatenate functional connectivity data processed fro
 
 ### run_statmodels.ipynb
 - creates csv files of different node specific metrics (for each individual) and individual summary specific metrics (for each individual). This is done by integrating functions from brainx, networkx, and pandas.
+
+
+
+### Note
+
+This is a sample of the work for this project. To do: create a separate codebook with all functions and document better. 
